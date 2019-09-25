@@ -1,17 +1,16 @@
 
 
-
 ## Usage
 
 ### Installation
 ```
-npm install --save @polymer/iron-form
+npm install 
 ```
 
 
 ### Installation
 ```sh
-git clone https://github.com/PolymerElements/iron-form
+git clone https://github.com/kannannce1/iron-form
 cd iron-form
 npm install
 npm install -g polymer-cli
@@ -23,8 +22,5 @@ polymer serve --npm
 open http://127.0.0.1:<port>/demo/
 ```
 
-### Running the tests
-```sh
-polymer test --npm
-```
+
 
